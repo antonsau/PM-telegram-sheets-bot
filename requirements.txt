@@ -1,0 +1,5 @@
+emoji==1.7.0
+pygsheets==2.0.5
+pyTelegramBotAPI==4.5.1
+schedule==1.1.0
+web3==5.29.0
